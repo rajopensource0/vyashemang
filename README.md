@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vyashemang&show_icons=true" alt="vyashemang" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vyashemang&show_icons=true" alt="vyashemang" /> </p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyashemang&layout=compact)
 
 <p align="center"> 
 <a href="https://twitter.com/vyashemang99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vyashemang99" height="20" width="20" /></a>
